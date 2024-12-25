@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Roxannej. Frontend Architect, Web Developer, Consultant, Author and Open Source Enthusiast from China (Qinghai Province).
+I'm Roxannej. Frontend Architect, Web Developer, Consultant.
   </samp>
   <br/>
   <br/>
